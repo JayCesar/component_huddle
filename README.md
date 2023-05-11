@@ -8,19 +8,38 @@
 
 </p>
 
+***
+
 ## 📌 About 
 
 <p>
 The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML and CSS. It is required to create a responsive landing page and its design includes a single introductory section with a bold, modern color scheme, high-quality imagery, and subtle animations to enhance the user experience.
 </p>
 
+***
+
 ## ⚙️ Techniques and technologies used
 - ``CSS3``
 - ``HTML5``
 - ``Responsive design``
 
+***
+
 ## 🖥️ Demo  
 ![huddle-demo](https://github.com/salvedojuliao/landing_page-huddle/assets/44206400/1bc92c7a-ddc1-4ed3-9c38-d2b4749d866d)
 
+***
+
 ## ▶️ How to access it?
 You just need to click ➙ <b><a href="https://salvedojuliao.github.io/landing_page-huddle/"> Huddle Landing Page </a></b>
+
+***
+
+## ⚠️ Important
+This page was developed by me in 2022 when I was working in a startup and I had to learn new features, that's why there are no commits from its development. However, here is the link to
+my solution upload in **Front-end mentor** site:
+
+**My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/css-and-html5-B1hOk0g7c"> Challenge Upload at Front-end mentor </a></b>
+
+
+
