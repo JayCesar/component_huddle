@@ -19,7 +19,7 @@ The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML, CSS,
 - ``Responsive design``
 
 ## 🖥️ Demo  
-
+![huddle-demo](https://github.com/salvedojuliao/landing_page-huddle/assets/44206400/1bc92c7a-ddc1-4ed3-9c38-d2b4749d866d)
 
 ## ▶️ How to access it?
-You can just need to <a href=""> click here - Qr Code Component </a>
+You can just need to <a href="https://salvedojuliao.github.io/landing_page-huddle/"> click here - Huddle Landing Page </a>
