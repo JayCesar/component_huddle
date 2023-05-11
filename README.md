@@ -3,8 +3,10 @@
   <p align="center"><i>with a single introductory section </i></p>
 </div>
 
-
 ![banner_huddle](https://github.com/salvedojuliao/landing_page-huddle/assets/44206400/55ccff23-0042-4a9b-8db5-0debc8b8536a)
+<p align="center">
+
+</p>
 
 ## 📌 About 
 
@@ -21,4 +23,4 @@ The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML and C
 ![huddle-demo](https://github.com/salvedojuliao/landing_page-huddle/assets/44206400/1bc92c7a-ddc1-4ed3-9c38-d2b4749d866d)
 
 ## ▶️ How to access it?
-You can just need to <a href="https://salvedojuliao.github.io/landing_page-huddle/"> click here - Huddle Landing Page </a>
+You just need to click ➙ <a href="https://salvedojuliao.github.io/landing_page-huddle/"> Huddle Landing Page </a>
