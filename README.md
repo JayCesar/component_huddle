@@ -26,7 +26,8 @@ The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML and C
 ***
 
 ## 🖥️ Demo  
-![huddle-demo](https://github.com/salvedojuliao/landing_page-huddle/assets/44206400/1bc92c7a-ddc1-4ed3-9c38-d2b4749d866d)
+
+![gif-huddle](https://github.com/salvedojuliao/landing_page-huddle/assets/44206400/03611354-71e7-43fc-8322-1fc60546bfdf)
 
 ***
 
