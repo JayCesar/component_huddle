@@ -23,4 +23,4 @@ The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML and C
 ![huddle-demo](https://github.com/salvedojuliao/landing_page-huddle/assets/44206400/1bc92c7a-ddc1-4ed3-9c38-d2b4749d866d)
 
 ## ▶️ How to access it?
-You just need to click ➙ <a href="https://salvedojuliao.github.io/landing_page-huddle/"> Huddle Landing Page </a>
+You just need to click ➙ <b><a href="https://salvedojuliao.github.io/landing_page-huddle/"> Huddle Landing Page </a></b>
