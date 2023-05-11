@@ -9,11 +9,10 @@
 ## 📌 About 
 
 <p>
-The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML, CSS, and basic JavaScript. It is required to create a responsive landing page and its design includes a single introductory section with a bold, modern color scheme, high-quality imagery, and subtle animations to enhance the user experience.
+The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML and CSS. It is required to create a responsive landing page and its design includes a single introductory section with a bold, modern color scheme, high-quality imagery, and subtle animations to enhance the user experience.
 </p>
 
 ## ⚙️ Techniques and technologies used
-- ``JavaScript``
 - ``CSS3``
 - ``HTML5``
 - ``Responsive design``
