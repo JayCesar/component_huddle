@@ -40,7 +40,7 @@ You just need to click ➙ <b><a href="https://salvedojuliao.github.io/landing_p
 This page was developed by me in 2022 when I was working in a startup and I had to learn new features, that's why there are no commits from its development. However, here is the link to
 my solution upload in **Front-end mentor** site:
 
-**My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/css-and-html5-B1hOk0g7c"> Challenge Upload at Front-end mentor </a></b>
+**My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/css-and-html5-B1hOk0g7c"> Challenge Upload on Front-end mentor </a></b>
 
 
 
