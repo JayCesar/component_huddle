@@ -38,9 +38,9 @@ You just need to click ➙ <b><a href="https://jaycesar.github.io/landing_page-h
 
 ## ⚠️ Important
 This page was developed by me in 2022 when I was working in a startup and I had to learn new features, that's why there are no commits from its development. However, here is the link to
-my solution upload in **Front-end mentor** site:
+my solution upload in **Front-end Mentor** site:
 
-**My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/css-and-html5-B1hOk0g7c"> Challenge Upload on Front-end mentor </a></b>
+**My solution** ➙ <b><a href="https://www.frontendmentor.io/solutions/css-and-html5-B1hOk0g7c"> Challenge Upload on Front-end Mentor </a></b>
 
 
 
