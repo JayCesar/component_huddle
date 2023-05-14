@@ -32,7 +32,7 @@ The <b>Huddle Landing Page challenge</b> aims to test my knowledge of HTML and C
 ***
 
 ## ▶️ How to access it?
-You just need to click ➙ <b><a href="https://salvedojuliao.github.io/landing_page-huddle/"> Huddle Landing Page </a></b>
+You just need to click ➙ <b><a href="https://jaycesar.github.io/landing_page-huddle/"> Huddle Landing Page </a></b>
 
 ***
 
